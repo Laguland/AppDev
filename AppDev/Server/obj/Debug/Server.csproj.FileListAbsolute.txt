@@ -1,0 +1,8 @@
+P:\App Dev Proj\Server\Server\bin\Debug\Server.exe.config
+P:\App Dev Proj\Server\Server\bin\Debug\Server.exe
+P:\App Dev Proj\Server\Server\bin\Debug\Server.pdb
+P:\App Dev Proj\Server\Server\bin\Debug\ServerData.dll
+P:\App Dev Proj\Server\Server\bin\Debug\ServerData.pdb
+P:\App Dev Proj\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+P:\App Dev Proj\Server\Server\obj\Debug\Server.exe
+P:\App Dev Proj\Server\Server\obj\Debug\Server.pdb

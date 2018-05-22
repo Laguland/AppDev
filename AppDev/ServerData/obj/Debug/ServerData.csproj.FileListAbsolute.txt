@@ -1,0 +1,5 @@
+P:\App Dev Proj\Server\ServerData\bin\Debug\ServerData.dll
+P:\App Dev Proj\Server\ServerData\bin\Debug\ServerData.pdb
+P:\App Dev Proj\Server\ServerData\obj\Debug\ServerData.csprojResolveAssemblyReference.cache
+P:\App Dev Proj\Server\ServerData\obj\Debug\ServerData.dll
+P:\App Dev Proj\Server\ServerData\obj\Debug\ServerData.pdb
